@@ -1,0 +1,26 @@
+D:\Pisane\C#\LifeTheGame\LifeTheGame\bin\Debug\LifeTheGame.exe.config
+D:\Pisane\C#\LifeTheGame\LifeTheGame\bin\Debug\LifeTheGame.exe
+D:\Pisane\C#\LifeTheGame\LifeTheGame\bin\Debug\LifeTheGame.pdb
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\MainWindow.baml
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\App.g.cs
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame_MarkupCompile.cache
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.g.resources
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.Properties.Resources.resources
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.csproj.GenerateResource.Cache
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.exe
+D:\Pisane\C#\LifeTheGame\LifeTheGame\obj\Debug\LifeTheGame.pdb
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\bin\Debug\LifeTheGame.exe.config
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame.exe
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame.pdb
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\bin\Debug\LifeTheGame.exe
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\bin\Debug\LifeTheGame.pdb
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\MainWindow.baml
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\App.g.cs
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame_MarkupCompile.cache
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame.g.resources
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame.Properties.Resources.resources
+D:\Pisane\C#\LifeTheGame\backup 2\LifeTheGame\obj\Debug\LifeTheGame.csproj.GenerateResource.Cache
